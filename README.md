@@ -1,7 +1,16 @@
-#LexDAO Consitution Information
+# LexDAO Constitution Information
 
-## Based in part on: https://github.com/lex-node/SCoDA-Simple-Code-Deference-Agreement-/blob/master/DAO%20Charter%20with%20Qualified%20Code%20Deference.md
+Most recently ratified Version: [Insert IPFS Hash]
 
-##License
+Most recent ratification DAO vote: [Insert DAO Vote Address]
 
-The LexDAO Consitution is presented under 
+The above ratified version shall be held as master operating document for LexDAO. Any divergent code in this repo or a fork is provisional until ratified.
+
+
+Document based in part on: https://github.com/lex-node/SCoDA-Simple-Code-Deference-Agreement-/blob/master/DAO%20Charter%20with%20Qualified%20Code%20Deference.md
+
+
+
+## License
+
+The LexDAO Consitution is presented under a Creative Commons Attribution Share Alike 4.0 International license.
