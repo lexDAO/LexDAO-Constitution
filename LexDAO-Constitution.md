@@ -156,7 +156,7 @@ To the maximum extent permitted by applicable law, no LDM Member shall be (or sh
 - (vii) “Token” means a digital unit that is recognized by the Designated Client on the Designated Blockchain Network as capable of: (a) being uniquely associated with or “owned” by a particular public-key address on the Designated Blockchain Network at each particular block height; and (b) having Transfers of such digital unit recorded on the Designated Blockchain.
 - (viii) “Transfer” of a Token to a given address (the “Receiving Address”) on the Designated Blockchain Network will be deemed to have occurred if and only if it is recognized by the Designated Client on the Designated Blockchain Network that: 
 - (ix) there has been duly transmitted to the Designated Blockchain Network a new transfer function transaction that:(a) provides for the reassociation of the Designated Token with the Receiving Address; and (b) is signed by a private key that is (or a group of private keys that together are) sufficient to authorize the execution of such transfer function; and
-- (iix) such transaction has been Confirmed.
+- (x) such transaction has been Confirmed.
 
 (r ) **"Guild Kick"**  means removal from the membership via vote of LDM members to destroy the LDM Membership token through a burn function or other process as described in the Handbook.  Unless specifically provided otherwise a member subject to a Guild Kick shall not be entitle to any distribution or return of capital, funds, retains, etc.
 
