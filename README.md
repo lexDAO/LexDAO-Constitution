@@ -1,6 +1,7 @@
 # LexDAO Constitution Information
 
 Most recently ratified version (v01): IPFS: `bafybeihfzofzcraa4s6s7avj35qnsmrfvd3onweywacjjqb3r3igtl3mfi`
+
 Most recent ratification DAO vote: [Insert DAO Vote Address]
 
 The above ratified version shall be held as master operating document for LexDAO. Any divergent code in this repo or a fork is provisional until ratified.
