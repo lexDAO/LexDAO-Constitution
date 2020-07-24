@@ -1,6 +1,6 @@
 # LexDAO Constitution Information
 
-Most recently ratified Version: IPFS: `bafybeihfzofzcraa4s6s7avj35qnsmrfvd3onweywacjjqb3r3igtl3mfi`
+Most recently ratified version (v01): IPFS: `bafybeihfzofzcraa4s6s7avj35qnsmrfvd3onweywacjjqb3r3igtl3mfi`
 
 Most recent ratification DAO vote: [Insert DAO Vote Address]
 
