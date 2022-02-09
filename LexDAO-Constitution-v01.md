@@ -70,8 +70,6 @@ To the maximum extent permitted by applicable law, no Member shall be (or shall 
 
 **Section 5.1 - Guild Kick/Member Removal Procedures.**  Shall be governed by the Operating System Manual.
 
-**Section 5.2 - Material Adverse Exception Event.** Notwithstanding anything to the contrary set forth in Section 4, if there is a Material Adverse Exception Event, then the rules and procedures set forth in this clause shall determine the rights and obligations of the LDC holding members relating to the LexDAO property.
-
 # Article VI - Patronage Dividends
 
 **Section 6.1 - Distribution obligation.** The realized net earnings of LexDAO attributable to the patronage of members through contributions and voting shall be allocated and distributed among members in proportion to their patronage and in such a manner and at such a time as to constitute patronage dividends within the meaning of federal income tax law. Unless otherwise required under federal tax law all of the operations of the LexDAO shall be netted into a single allocation unit.
@@ -135,5 +133,3 @@ To the maximum extent permitted by applicable law, no Member shall be (or shall 
 (o) **“Liability”** means any debt, obligation, duty or liability of any nature (including any unknown, undisclosed, unmatured, unaccrued, unasserted, contingent, indirect, conditional, implied, vicarious, inchoate derivative, joint, several or secondary liability), regardless of whether such debt, obligation, duty or liability would be required to be disclosed on a balance sheet prepared in accordance with generally accepted accounting principles and regardless of whether such debt, obligation, duty or liability is immediately due and payable. To be “Liable” means to have, suffer, incur, be obligated for or be subject to a Liability.
 
 (p) **“Lien”** means any lien, pledge, hypothecation, charge, mortgage, security interest, encumbrance, other possessory interest, conditional sale or other title retention agreement, intangible property right, claim, infringement, option, right of first refusal, preemptive right, exclusive license of intellectual property, community property interest or restriction of any nature including any restriction on the voting of any security or restriction on the transfer, use or ownership of any security or other asset.
-
-(q) **"Guild Kick"**  means removal from the membership via vote of LDC members to destroy the LDC Membership token through a burn function or other process as described in the Handbook.  Unless specifically provided otherwise a member subject to a Guild Kick shall not be entitle to any distribution or return of capital, funds, retains, etc.
