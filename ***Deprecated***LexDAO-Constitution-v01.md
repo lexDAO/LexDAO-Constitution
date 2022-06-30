@@ -1,5 +1,4 @@
-# DEPRECATED
-# Constitution of LexDAO Club 
+# DEPRECATED --- Constitution of LexDAO Club 
 
 ### Originally Adopted July 24, 2020
 
