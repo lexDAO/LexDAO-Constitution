@@ -89,4 +89,15 @@ To the maximum extent permitted by applicable law, no Member shall be (or shall 
 (g) **Undoxxed Member** An anonymous or pseudonymous member who has not provided or made publicly available information to disclose their name and identity.
 
 
-
+{ 
+  "@context": "https://constitutions.metagov.org",
+  "type": "constitution",
+  "title": "Constitution of LexDAO Club",
+  "name": "LExDAO",
+  "daoURI": "<URI of daoURI, see EIP-4824>",
+  "dateCreated": "2020-07-24",
+  "dateModified": "2022-06-15",
+  "previousConstitutionURI": "<URI>",
+  "inForce": "True",
+  "archived": "2022-07-09"
+}
