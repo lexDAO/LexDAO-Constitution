@@ -1,6 +1,7 @@
 # LexDAO Constitution Information
 
 Most recently ratified version v02: IPFS forthcoming
+
 (v01): IPFS: `bafybeibynpxwbvtnpwyn7p67vqmz44vc5s5nlioefs4uq3vj6jz3gwuz5y`
 
 Most recent ratification DAO vote: https://snapshot.org/#/lexdao.eth/proposal/0x3f48d689541cc5b1d92089c23343429d7440ab4f58d9335560c223d299bdfa8d
