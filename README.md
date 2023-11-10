@@ -4,7 +4,7 @@ Current Link to [LexDAO Constitution](https://github.com/lexDAO/LexDAO-Constitut
 
 The above ratified version shall be held as master operating document for LexDAO. Any divergent code in this repo or a fork is provisional until ratified.
 
-Document based in part on: https://github.com/lex-node/SCoDA-Simple-Code-Deference-Agreement-/blob/master/DAO%20Charter%20with%20Qualified%20Code%20Deference.md
+Document based in part on [SCoDA Simple Code Deference Agreement](https://github.com/lex-node/SCoDA-Simple-Code-Deference-Agreement-/blob/master/DAO%20Charter%20with%20Qualified%20Code%20Deference.md)
 
 
 ## Ratification History
