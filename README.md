@@ -10,12 +10,12 @@ Document based in part on: https://github.com/lex-node/SCoDA-Simple-Code-Deferen
 ## Ratification History
 
 ### Version 1
-v01 Ratification: https://mainnet.aragon.org/#/lexdao/0x82c603da6b707e99d16e3931414c2c8eafa76bf0/vote/84/
+[v01 Ratification](https://mainnet.aragon.org/#/lexdao/0x82c603da6b707e99d16e3931414c2c8eafa76bf0/vote/84/)
 
 (v01): IPFS: `bafybeibynpxwbvtnpwyn7p67vqmz44vc5s5nlioefs4uq3vj6jz3gwuz5y`
 
 ### Version 2
-v02 Ratification: https://snapshot.org/#/lexdao.eth/proposal/0x3f48d689541cc5b1d92089c23343429d7440ab4f58d9335560c223d299bdfa8d
+[v02 Ratification](https://snapshot.org/#/lexdao.eth/proposal/0x3f48d689541cc5b1d92089c23343429d7440ab4f58d9335560c223d299bdfa8d)
 
 
 ## License
