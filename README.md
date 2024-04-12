@@ -1,8 +1,10 @@
 # LexDAO Constitution Information
 
-<details><summary>Current Link to [LexDAO Constitution](https://github.com/lexDAO/LexDAO-Constitution/blob/master/LexDAO-Constitution%20v02.md)
-</summary>
-The above ratified version shall be held as master operating document for LexDAO. Any divergent code in this repo or a fork is provisional until ratified. Document based in part on [SCoDA Simple Code Deference Agreement](https://github.com/lex-node/SCoDA-Simple-Code-Deference-Agreement-/blob/master/DAO%20Charter%20with%20Qualified%20Code%20Deference.md)
+Current Link to [LexDAO Constitution](https://github.com/lexDAO/LexDAO-Constitution/blob/master/LexDAO-Constitution%20v02.md)
+<details><summary>Corrigenda ...</summary>
+The above ratified version shall be held as master operating document for LexDAO. Any divergent code in this repo or a fork is provisional until ratified. Document based in part on [SCoDA Simple Code Deference Agreement](https://github.com/lex-node/SCoDA-Simple-Code-Deference-Agreement-/blob/master/DAO%20Charter%20with%20Qualified%20Code%20Deference.md).
+
+It is quite possible for two different forms of the constitution to exist (parallel universes) as each fork may have sufficient autonomy to co-exist until provisions of [WY §17-32-128](https://casetext.com/statute/wyoming-statutes/title-17-corporations-partnerships-and-associations/chapter-32-wyoming-decentralized-unincorporated-nonprofit-association-act/section-17-32-128-effective-712024-conversion-of-entities) kicks in. From an evolutionary computing point of view each LEETH holder as a slightly different view of the constitution and the non-viable concepts are killed off whilst the resilient ones (re)germinate. The fun part 😀 is implementing [WY §17-32-119](https://casetext.com/statute/wyoming-statutes/title-17-corporations-partnerships-and-associations/chapter-32-wyoming-decentralized-unincorporated-nonprofit-association-act/section-17-32-119-effective-712024-member-interests-transferable) whilst still holding onto the non-profit status.
 </details>
 
 <!-- cimply, I will support you in constitutional changes so far as it doesn't conflict with my (¿overly high?) expectations of profession of legal engineering, because it's the role of the next gen of neo-class to formulate their own governance mechanism. Anyone who reads this comment, please leave the $$white$$ as it is the paladin lvl1 test to ~~RTC~` = read the code. Congrats 👏👏👋👏, you've now learnt the secret "handshake" for future rogues to look for deliberate security flaws (of course 🙄). Anyone who spoils it by telling a non-rogue, well the anger of cryptowizards can be slow and subtle. -->
