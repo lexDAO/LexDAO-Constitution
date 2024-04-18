@@ -4,6 +4,12 @@ Current Link to [LexDAO Constitution](https://github.com/lexDAO/LexDAO-Constitut
 
 The above ratified version shall be held as master operating document for LexDAO. Any divergent code in this repo or a fork is provisional until ratified.
 
+## Translations
+LexDAO approved a project to translate to Spanish on 2023-05-05 [here](https://snapshot.org/#/lexdao.eth/proposal/0xdb3dd53ad91fbae2dddf5f3df38c654c58066d01f5e1ac9a11c1c837f165da41).  Credit to Luis Miranda and Andres Dovales for undertaking this project.  This version is a canonically linked back to the English version which supercedes all other versions as the Master Text.
+
+[Constitution Spanish Link](https://github.com/lexDAO/LexDAO-Constitution/blob/master/Translation/Spanish/LexDAO-Constitution%20v02_Spanish.md)
+
+
 Document based in part on [SCoDA Simple Code Deference Agreement](https://github.com/lex-node/SCoDA-Simple-Code-Deference-Agreement-/blob/master/DAO%20Charter%20with%20Qualified%20Code%20Deference.md)
 
 
@@ -16,6 +22,7 @@ Document based in part on [SCoDA Simple Code Deference Agreement](https://github
 
 ### Version 2
 [v02 Ratification](https://snapshot.org/#/lexdao.eth/proposal/0x3f48d689541cc5b1d92089c23343429d7440ab4f58d9335560c223d299bdfa8d)
+
 
 
 ## License
