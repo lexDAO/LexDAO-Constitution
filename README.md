@@ -24,7 +24,8 @@ Document based in part on [SCoDA Simple Code Deference Agreement](https://github
 ### Version 2
 [v02 Ratification](https://snapshot.org/#/lexdao.eth/proposal/0x3f48d689541cc5b1d92089c23343429d7440ab4f58d9335560c223d299bdfa8d)
 
-
+### Version 2.A.
+[v02 Spanish Ratification](https://snapshot.org/#/lexdao.eth/proposal/0xdb3dd53ad91fbae2dddf5f3df38c654c58066d01f5e1ac9a11c1c837f165da41)
 
 ## License
 
