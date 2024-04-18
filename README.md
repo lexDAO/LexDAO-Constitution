@@ -1,5 +1,6 @@
 # LexDAO Constitution Information
 
+## Master Link
 Current Link to [LexDAO Constitution](https://github.com/lexDAO/LexDAO-Constitution/blob/master/LexDAO-Constitution%20v02.md)
 
 The above ratified version shall be held as master operating document for LexDAO. Any divergent code in this repo or a fork is provisional until ratified.
