@@ -5,7 +5,6 @@ Current Link to [LexDAO Constitution](https://github.com/lexDAO/LexDAO-Constitut
 <details><summary>Corrigenda ...</summary>
 The above ratified version shall be held as master operating document for LexDAO. Any divergent code in this repo or a fork is provisional until ratified. Document based in part on [SCoDA Simple Code Deference Agreement](https://github.com/lex-node/SCoDA-Simple-Code-Deference-Agreement-/blob/master/DAO%20Charter%20with%20Qualified%20Code%20Deference.md).
 
-It is quite possible for two different forms of the constitution to exist (parallel universes) as each fork may have sufficient autonomy to co-exist until provisions of [WY §17-32-128](https://casetext.com/statute/wyoming-statutes/title-17-corporations-partnerships-and-associations/chapter-32-wyoming-decentralized-unincorporated-nonprofit-association-act/section-17-32-128-effective-712024-conversion-of-entities) kicks in. From an evolutionary computing point of view each LEETH holder as a slightly different view of the constitution and the non-viable concepts are killed off whilst the resilient ones (re)germinate. The fun part 😀 is implementing [WY §17-32-119](https://casetext.com/statute/wyoming-statutes/title-17-corporations-partnerships-and-associations/chapter-32-wyoming-decentralized-unincorporated-nonprofit-association-act/section-17-32-119-effective-712024-member-interests-transferable) whilst still holding onto the non-profit status.
 </details>
 
 
@@ -53,6 +52,7 @@ The LexDAO Consitution is presented under a Creative Commons Attribution Share A
 
 Le⚔DAO is now reflecting on the past legacy to identify new career paths for legal engineers which may require rethinking what certification means including a more sophisticated form of "licensing" its collective trademark.
 
+
 ## Legal Status
 
 LexDAO is currently a Wyoming unincorporated non-profit with the following registered Tax Number: 87-4257149
@@ -60,6 +60,9 @@ LexDAO is currently a Wyoming unincorporated non-profit with the following regis
 <!-- The point of the raid against USPTO is that I aim to set a precendent in the concurrent-use doctrine https://en.wikipedia.org/wiki/Concurrent_use_registration but based on functionality and not geography ... that the LexDAO trust mark is composed of its members which are retained in a secondary registry with co-regulation under WIPO/USPTO rules persuant to Lanham Act 2(d) on collective ownership as per [15 U.S.C. §1052](https://www.law.cornell.edu/uscode/text/15/1052). -->
 
 LexDAO aspires to be a balanced international trustmark that can scale to thousands or 萬 of members working towards certified legal engineering status.
+
+
+
 
 ## Treasury
 
