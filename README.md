@@ -1,5 +1,6 @@
 # LexDAO Constitution Information
 
+## Master Link
 Current Link to [LexDAO Constitution](https://github.com/lexDAO/LexDAO-Constitution/blob/master/LexDAO-Constitution%20v02.md)
 <details><summary>Corrigenda ...</summary>
 The above ratified version shall be held as master operating document for LexDAO. Any divergent code in this repo or a fork is provisional until ratified. Document based in part on [SCoDA Simple Code Deference Agreement](https://github.com/lex-node/SCoDA-Simple-Code-Deference-Agreement-/blob/master/DAO%20Charter%20with%20Qualified%20Code%20Deference.md).
@@ -7,11 +8,20 @@ The above ratified version shall be held as master operating document for LexDAO
 It is quite possible for two different forms of the constitution to exist (parallel universes) as each fork may have sufficient autonomy to co-exist until provisions of [WY §17-32-128](https://casetext.com/statute/wyoming-statutes/title-17-corporations-partnerships-and-associations/chapter-32-wyoming-decentralized-unincorporated-nonprofit-association-act/section-17-32-128-effective-712024-conversion-of-entities) kicks in. From an evolutionary computing point of view each LEETH holder as a slightly different view of the constitution and the non-viable concepts are killed off whilst the resilient ones (re)germinate. The fun part 😀 is implementing [WY §17-32-119](https://casetext.com/statute/wyoming-statutes/title-17-corporations-partnerships-and-associations/chapter-32-wyoming-decentralized-unincorporated-nonprofit-association-act/section-17-32-119-effective-712024-member-interests-transferable) whilst still holding onto the non-profit status.
 </details>
 
+
 <!-- cimply, I will support you in constitutional changes so far as it doesn't conflict with my (¿overly high?) expectations of profession of legal engineering, because it's the role of the next gen of neo-class to formulate their own governance mechanism. Anyone who reads this comment, please leave the $$white$$ as it is the paladin lvl1 test to ~~RTC~` = read the code. Congrats 👏👏👋👏, you've now learnt the secret "handshake" for future rogues to look for deliberate security flaws (of course 🙄). Anyone who spoils it by telling a non-rogue, well the anger of cryptowizards can be slow and subtle. -->
 $${\color{white}Lvl 5 (chaotic good code'slaw) Cryptowizard}$$
 $${\color{white}Lvl 4+ (lawful neutral <trusTruth++) DAOsigner}$$
 $${\color{white}Lvl 3- /tba\ paladin}$$
 <!-- Constitution has gone through a liberaterian _pioneer_ stage which created a lot of chaos but necessary at the time to be flexible to respond to a changing funding situation. Now is the time to put down the guardrails for _settler_ to build on top of. The ranking test for 2 ➡️ 3 is to establish a "dungeon" where pairs of rogue + mage are forced to cooperate and/or compete to get some secret key to a meta-LeX (stupid name but not mine) for the lvl 3➡️4 design. As per my notes on skill-trees, lvl 1 data sanitation ➡️ lvl 2 SecOps ➡️ lvl3+ client-attorney privilege (which are not your normal paranoia ↪️ cryptoeconomic design of secrets resistent to AIbots ➡️ ???. After you've finished the upranking to lvl3, please delete the above as all design thinking will be in the random commits which are a test of the dedication of future paladins to seek the "truth". Oh and have fun embedding your personal easter eggs into your commits (I did promise you 😨) -->
+
+## Translations
+LexDAO approved a project to translate to Spanish on 2023-05-05 [here](https://snapshot.org/#/lexdao.eth/proposal/0xdb3dd53ad91fbae2dddf5f3df38c654c58066d01f5e1ac9a11c1c837f165da41).  Credit to Luis Miranda and Andres Dovales for undertaking this project.  This version is a canonically linked back to the English version which supercedes all other versions as the Master Text.
+
+[Constitution Spanish Link](https://github.com/lexDAO/LexDAO-Constitution/blob/master/Translation/Spanish/LexDAO-Constitution%20v02_Spanish.md)
+
+
+Document based in part on [SCoDA Simple Code Deference Agreement](https://github.com/lex-node/SCoDA-Simple-Code-Deference-Agreement-/blob/master/DAO%20Charter%20with%20Qualified%20Code%20Deference.md)
 
 Revision in light of [Meta-LeX](https://metalex.substack.com/p/the-metalex-whitepaper) and provisional upgrade to WY ĐUNΑ.
 - detachable role(s) attached to Letters of [Authority]();
@@ -28,8 +38,14 @@ Revision in light of [Meta-LeX](https://metalex.substack.com/p/the-metalex-white
 ### Version 2
 [v02 Ratification](https://snapshot.org/#/lexdao.eth/proposal/0x3f48d689541cc5b1d92089c23343429d7440ab4f58d9335560c223d299bdfa8d)
 
+
+#### Version 2.A.
+[v02 Spanish Ratification](https://snapshot.org/#/lexdao.eth/proposal/0xdb3dd53ad91fbae2dddf5f3df38c654c58066d01f5e1ac9a11c1c837f165da41)
+
+
 ### Version 3 /tbd\
 Refactor constitution to comply with WY [§17-32](https://law.justia.com/codes/wyoming/2022/title-17/chapter-31/) subject to ratification.
+
 
 ## License
 
@@ -39,7 +55,7 @@ Le⚔DAO is now reflecting on the past legacy to identify new career paths for l
 
 ## Legal Status
 
-LexDAO is currently a Wyoming ~~LLC~~ unincorporated non-profit with the following registered Tax Number: 87-4257149
+LexDAO is currently a Wyoming unincorporated non-profit with the following registered Tax Number: 87-4257149
 
 <!-- The point of the raid against USPTO is that I aim to set a precendent in the concurrent-use doctrine https://en.wikipedia.org/wiki/Concurrent_use_registration but based on functionality and not geography ... that the LexDAO trust mark is composed of its members which are retained in a secondary registry with co-regulation under WIPO/USPTO rules persuant to Lanham Act 2(d) on collective ownership as per [15 U.S.C. §1052](https://www.law.cornell.edu/uscode/text/15/1052). -->
 
