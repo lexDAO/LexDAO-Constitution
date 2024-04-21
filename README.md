@@ -33,7 +33,7 @@ Tracked the expiration and effective dates for executed agreements, performing h
 Supported business teammates with procurement and legal inquiries
 
 ### Partner of Corporate Practice
-**FOTIA | AGU 2021 - NOW**  
+**FOTIA | AGU 2021-2022  
 - Corporate legal advisor.
 - Contact drafting.
 - Corporate advice for foreign investment.
