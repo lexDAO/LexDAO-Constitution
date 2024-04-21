@@ -32,7 +32,65 @@ Handled CLM (DocuSign) procedures
 Tracked the expiration and effective dates for executed agreements, performing health checks according to regulatory updates
 Supported business teammates with procurement and legal inquiries
 
-### Education
+### Partner of Corporate Practice
+**FOTIA | AGU 2021 - NOW**  
+- Corporate legal advisor.
+- Contact drafting.
+- Corporate advice for foreign investment.
+- Contract negotiation.
+- Team up with SME to resolve labor and tax law matters.
+
+### Corporate Lawyer
+**ALMACENADORA MERCADER S.A. | MAY 2021 - AUG 2021**  
+- Contract management.
+- Credit analysis and examination.
+- Contracts related to General Deposit Warehouses.
+- Vendor negotiations.
+- Commercial agreements with multinational stakeholders.
+- Client research.
+- NDA creation and negotiation.
+- Work closely with commercial sales and account managers.
+
+### Corporate Lawyer
+**FONDO JALISCO DE FOMENTO EMPRESARIAL - JALISCO GOVERNMENT | DEC 2020 - MAY 2021**  
+- Compliance of public policy.
+- Contract management.
+- Credit analysis.
+- Client research.
+- Review fully executed contracts with Zapopan Government and beneficiaries.
+- Review effective and expiration dates.
+- Negotiate amendments to existing contracts.
+
+### Corporate Lawyer
+**MEXICANA DE LUBRICANTES S.A. DE C.V. "AKRON" | AUG 2020 - DEC 2020**  
+- Manage contractual operations.
+- Contract management.
+- Corporate legal advisor.
+- Provide support to internal areas.
+- Assist corporate filings and entity managers.
+
+### General Counsel
+**TÚNEL VERDE DEL PACÍFICO | MAR 2019 - FEB 2020**  
+- Corporate legal advisor.
+- Contract management.
+- Supported tax procedures.
+- Supported labor related agreements and procedures.
+- Manage legal procedures documentation.
+- Assist negotiations in third party vendor agreements.
+
+### Paralegal
+**PHV & GC | AUG 2018 - DEC 2018**  
+- Corporate legal advisor.
+- Supported corporate services.
+
+### Organization Secretary
+**VOCES DE MÉXICO A.C. | SEP 2017 - NOW**  
+- Citizen participation in political matters.
+- Promotion of political awareness.
+- Social welfare.
+
+### Paralegal
+**SOTORISOLVE | JAN 2015 - AUG 2015**### Education
 -**Postrgraduate in contracts**-
 **2023-Universidad Panamericana, Mexico**
 
