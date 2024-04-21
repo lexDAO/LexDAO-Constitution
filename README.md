@@ -16,6 +16,39 @@ $${\color{white}Lvl 4+ (lawful neutral <trusTruth++) DAOsigner}$$
 $${\color{white}Lvl 3- /tba\ paladin}$$
 <!-- Constitution has gone through a liberaterian _pioneer_ stage which created a lot of chaos but necessary at the time to be flexible to respond to a changing funding situation. Now is the time to put down the guardrails for _settler_ to build on top of. The ranking test for 2 ➡️ 3 is to establish a "dungeon" where pairs of rogue + mage are forced to cooperate and/or compete to get some secret key to a meta-LeX (stupid name but not mine) for the lvl 3➡️4 design. As per my notes on skill-trees, lvl 1 data sanitation ➡️ lvl 2 SecOps ➡️ lvl3+ client-attorney privilege (which are not your normal paranoia ↪️ cryptoeconomic design of secrets resistent to AIbots ➡️ ???. After you've finished the upranking to lvl3, please delete the above as all design thinking will be in the random commits which are a test of the dedication of future paladins to seek the "truth". Oh and have fun embedding your personal easter eggs into your commits (I did promise you 😨) -->
 
+
+## About Luis Miranda
+
+Results-driven bilingual corporate lawyer with a solid background in legal counsel and contract management. Skilled in providing expert advice and support to achieve corporate objectives while ensuring compliance with relevant laws and regulations. Proven track record of coordinating external SMEs and effective communication with diverse stakeholders. Highly experienced in drafting and reviewing contracts, with a keen eye for detail.
+
+### Experience
+
+- **Corporate Counsel**  
+  *RingCentral - Belmont, California*  
+  *2023*
+Assisted internal teams in SaaS contract negotiations
+Drafted and redlined commercial agreements to meet the business objectives
+Handled CLM (DocuSign) procedures
+Tracked the expiration and effective dates for executed agreements, performing health checks according to regulatory updates
+Supported business teammates with procurement and legal inquiries
+
+### Education
+-**Postrgraduate in contracts**-
+**2023-Universidad Panamericana, Mexico**
+
+- **Bachelor of Laws (LL.B)**  
+  *Universidad Panamericana*  
+  *2019*
+
+### Skills
+
+- Legal Counsel
+- Contract Management
+- Compliance
+- Stakeholder Communication
+- Contract Drafting and Review
+- **Translations**
+  
 ## Translations
 LexDAO approved a project to translate to Spanish on 2023-05-05 [here](https://snapshot.org/#/lexdao.eth/proposal/0xdb3dd53ad91fbae2dddf5f3df38c654c58066d01f5e1ac9a11c1c837f165da41).  Credit to Luis Miranda and Andres Dovales for undertaking this project.  This version is a canonically linked back to the English version which supercedes all other versions as the Master Text.
 
