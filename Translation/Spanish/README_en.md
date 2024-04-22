@@ -40,24 +40,28 @@ As with any org, there will be mission drift over time. The objective is not to 
 ```mermaid
 mindmap
   root((LexDAO))
-    WHY
+    eye1(WHY)
       organisation
       equity/fairness/access
-      governance
-        code'slaw = Szaboan
-        < trust truth++ = Woodoo
-        in code|rs| we t|h|rust = Walchit
-        hum|in|loop = Zamfirism
-    WHAT
+      )governance(
+        Szaboan["**Nick Szabo**
+code'slaw"]
+        Walchit["**Angela Walch**
+in code(rs) we t(h)rust"]
+        woodoo["**Galvin Wood**
+< trust truth++"]
+        Zamfirism["**Vlad Zamfir**
+hum'in'loop"]
+    mut8(WHAT)
       R&DD
       protocols
         effective vs efficient
         certification
-      products
+      )products(
         evangelise - comms
         tools - channels
         verification
-    HOW
+    how2(HOW)
       unity - events
       LEETH - skill/tree
       agora/cooperative
@@ -73,7 +77,7 @@ The Spanish ➡️ Chinese ➡️ English, provides some interesting points to c
 # Credits
 
 <!-- insert your projects within LexDAO here -->
-[^1]: Luis Miranda [linked]()
+[^1]: Luis Miranda [linkedin]()
 
 <!-- insert your projects within LexDAO here -->
 [^2]: Andres Dovales [linkedin]()
