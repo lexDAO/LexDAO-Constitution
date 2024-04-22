@@ -47,7 +47,8 @@ LexDAO is currently a Wyoming unincorporated non-profit with the following regis
 
 LexDAO currently operates its main treasury through the following address: 0x5a741ab878bb65f6ae5506455fb555eaf3094b3f
 
-Under the interim ĐUNΑ transition stage, non-treasury assets may be distributed to Offices [^1] as progressive decentralisation accelerates.
+<!--Under the interim ĐUNΑ transition stage, non-treasury assets may be distributed to Offices [^1] as progressive decentralisation accelerates.
+-->
 
 [^1]: _International_ offices as defined in the bylaws along with associated contracts to intermediate between members, roles and resources.
 
