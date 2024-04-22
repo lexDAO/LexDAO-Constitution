@@ -14,9 +14,6 @@ LexDAO approved a project to translate to Spanish on 2023-05-05 [here](https://s
 [Constitution Spanish Link](https://github.com/lexDAO/LexDAO-Constitution/blob/master/Translation/Spanish/LexDAO-Constitution%20v02_Spanish.md)
 
 
-Document based in part on [SCoDA Simple Code Deference Agreement](https://github.com/lex-node/SCoDA-Simple-Code-Deference-Agreement-/blob/master/DAO%20Charter%20with%20Qualified%20Code%20Deference.md)
-
-
 ## Ratification History
 
 ### Version 1
@@ -40,8 +37,6 @@ Refactor constitution to comply with WY [§17-32](https://law.justia.com/codes/w
 
 The LexDAO Consitution is presented under a Creative Commons Attribution Share Alike 4.0 International license.
 
-Le⚔DAO is now reflecting on the past legacy to identify new career paths for legal engineers which may require rethinking what certification means including a more sophisticated form of "licensing" its collective trademark.
-
 
 ## Legal Status
 
@@ -57,6 +52,11 @@ Under the interim ĐUNΑ transition stage, non-treasury assets may be distribute
 [^1]: _International_ offices as defined in the bylaws along with associated contracts to intermediate between members, roles and resources.
 
 ## Comments
-LexDAO aspires to be a balanced international trustmark that can scale to thousands or 萬 of members working towards certified legal engineering status.
+<!--LexDAO aspires to be a balanced international trustmark that can scale to thousands or 萬 of members working towards certified legal engineering status.-->
 
 <!-- The point of the raid against USPTO is that I aim to set a precendent in the concurrent-use doctrine https://en.wikipedia.org/wiki/Concurrent_use_registration but based on functionality and not geography ... that the LexDAO trust mark is composed of its members which are retained in a secondary registry with co-regulation under WIPO/USPTO rules persuant to Lanham Act 2(d) on collective ownership as per [15 U.S.C. §1052](https://www.law.cornell.edu/uscode/text/15/1052). -->
+
+<!-- Revision in light of [Meta-LeX](https://metalex.substack.com/p/the-metalex-whitepaper) and provisional upgrade to WY ĐUNΑ.
+- detachable role(s) attached to Letters of [Authority]();
+- resources intermediated through Office(s);
+- automation to augment the principled member(s).-->
