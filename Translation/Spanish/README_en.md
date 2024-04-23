@@ -43,7 +43,7 @@ mindmap
     eye1(WHY)
       organisation
       equity/fairness/access
-      )governance(
+      )DLT governance(
         Szaboan["**Nick Szabo**
 code'slaw"]
         Walchit["**Angela Walch**
