@@ -8,6 +8,97 @@ The above ratified version shall be held as master operating document for LexDAO
   [SCoDA Simple Code Deference Agreement](https://github.com/lex-node/SCoDA-Simple-Code-Deference-Agreement-/blob/master/DAO%20Charter%20with%20Qualified%20Code%20Deference.md)
 
 
+
+## About Luis Miranda
+
+Results-driven bilingual corporate lawyer with a solid background in legal counsel and contract management. Skilled in providing expert advice and support to achieve corporate objectives while ensuring compliance with relevant laws and regulations. Proven track record of coordinating external SMEs and effective communication with diverse stakeholders. Highly experienced in drafting and reviewing contracts, with a keen eye for detail.
+
+### Experience
+
+- **Corporate Counsel**  
+  *RingCentral - Belmont, California*  
+  *2023*
+Assisted internal teams in SaaS contract negotiations
+Drafted and redlined commercial agreements to meet the business objectives
+Handled CLM (DocuSign) procedures
+Tracked the expiration and effective dates for executed agreements, performing health checks according to regulatory updates
+Supported business teammates with procurement and legal inquiries
+
+### Partner of Corporate Practice
+**FOTIA | AGU 2021-2022  
+- Corporate legal advisor.
+- Contact drafting.
+- Corporate advice for foreign investment.
+- Contract negotiation.
+- Team up with SME to resolve labor and tax law matters.
+
+### Corporate Lawyer
+**ALMACENADORA MERCADER S.A. | MAY 2021 - AUG 2021**  
+- Contract management.
+- Credit analysis and examination.
+- Contracts related to General Deposit Warehouses.
+- Vendor negotiations.
+- Commercial agreements with multinational stakeholders.
+- Client research.
+- NDA creation and negotiation.
+- Work closely with commercial sales and account managers.
+
+### Corporate Lawyer
+**FONDO JALISCO DE FOMENTO EMPRESARIAL - JALISCO GOVERNMENT | DEC 2020 - MAY 2021**  
+- Compliance of public policy.
+- Contract management.
+- Credit analysis.
+- Client research.
+- Review fully executed contracts with Zapopan Government and beneficiaries.
+- Review effective and expiration dates.
+- Negotiate amendments to existing contracts.
+
+### Corporate Lawyer
+**MEXICANA DE LUBRICANTES S.A. DE C.V. "AKRON" | AUG 2020 - DEC 2020**  
+- Manage contractual operations.
+- Contract management.
+- Corporate legal advisor.
+- Provide support to internal areas.
+- Assist corporate filings and entity managers.
+
+### General Counsel
+**TÚNEL VERDE DEL PACÍFICO | MAR 2019 - FEB 2020**  
+- Corporate legal advisor.
+- Contract management.
+- Supported tax procedures.
+- Supported labor related agreements and procedures.
+- Manage legal procedures documentation.
+- Assist negotiations in third party vendor agreements.
+
+### Paralegal
+**PHV & GC | AUG 2018 - DEC 2018**  
+- Corporate legal advisor.
+- Supported corporate services.
+
+### Organization Secretary
+**VOCES DE MÉXICO A.C. | SEP 2017 - NOW**  
+- Citizen participation in political matters.
+- Promotion of political awareness.
+- Social welfare.
+
+### Paralegal
+**SOTORISOLVE | JAN 2015 - AUG 2015**### Education
+-**Postrgraduate in contracts**-
+**2023-Universidad Panamericana, Mexico**
+
+- **Bachelor of Laws (LL.B)**  
+  *Universidad Panamericana*  
+  *2019*
+
+### Skills
+
+- Legal Counsel
+- Contract Management
+- Compliance
+- Stakeholder Communication
+- Contract Drafting and Review
+- **Translations**
+  
 ## Translations
 LexDAO approved a project to translate to Spanish on 2023-05-05 [here](https://snapshot.org/#/lexdao.eth/proposal/0xdb3dd53ad91fbae2dddf5f3df38c654c58066d01f5e1ac9a11c1c837f165da41).  Credit to Luis Miranda and Andres Dovales for undertaking this project.  This version is a canonically linked back to the English version which supercedes all other versions as the Master Text.
 
